@@ -241,7 +241,7 @@ header {
 /* ______ Banner _______ */
 .banner {
   > div:first-child {
-    background-image: url("assets/images/banner.png");
+    background-image: url("assets/images/banner.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
