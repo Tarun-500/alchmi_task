@@ -55,8 +55,8 @@ export default function Header() {
                     </div>
                 </Collapse>
             </Row>
-            <Row>
-                <Col xs={12} className="menu_bar d-none d-md-block">
+            <Row className="d-none d-md-block">
+                <Col xs={12} className="menu_bar">
                     <Link to="#"> By Category</Link>
                     <Link to="#"> Skin Type</Link>
                     <Link to="#"> Skin Concerns </Link>
